@@ -1,0 +1,265 @@
+﻿Age,Incidence,Mortality,Type,Sex,Var(log) Incidence
+0,76,41,Stomach,Male,1.41
+5,65,34,Stomach,Male,1.41
+10,55,30,Stomach,Male,1.41
+15,46,25,Stomach,Male,1.41
+20,40,21,Stomach,Male,1.41
+30,28,16,Stomach,Male,1.41
+40,27,15,Stomach,Male,1.41
+50,25,13,Stomach,Male,1.41
+60,20,11,Stomach,Male,1.41
+70,14,8,Stomach,Male,1.41
+80,7,4,Stomach,Male,1.41
+0,336,163,Colon,Male,0.19
+5,285,139,Colon,Male,0.19
+10,241,117,Colon,Male,0.19
+15,204,99,Colon,Male,0.19
+20,173,84,Colon,Male,0.19
+30,125,61,Colon,Male,0.19
+40,122,60,Colon,Male,0.19
+50,113,57,Colon,Male,0.19
+60,94,49,Colon,Male,0.19
+70,65,36,Colon,Male,0.19
+80,30,21,Colon,Male,0.19
+0,61,44,Liver,Male,0.96
+5,50,37,Liver,Male,0.96
+10,43,31,Liver,Male,0.96
+15,36,27,Liver,Male,0.96
+20,30,23,Liver,Male,0.96
+30,22,16,Liver,Male,0.96
+40,21,16,Liver,Male,0.96
+50,19,14,Liver,Male,0.96
+60,14,12,Liver,Male,0.96
+70,8,8,Liver,Male,0.96
+80,3,4,Liver,Male,0.96
+0,314,318,Lung,Male,0.55
+5,261,264,Lung,Male,0.26
+10,216,219,Lung,Male,0.26
+15,180,182,Lung,Male,0.26
+20,149,151,Lung,Male,0.26
+30,105,107,Lung,Male,0.26
+40,104,107,Lung,Male,0.26
+50,101,104,Lung,Male,0.26
+60,89,93,Lung,Male,0.26
+70,65,71,Lung,Male,0.26
+80,34,42,Lung,Male,0.26
+0,93,17,Prostate,Male,0.00
+5,80,15,Prostate,Male,0.00
+10,67,12,Prostate,Male,0.00
+15,57,10,Prostate,Male,0.00
+20,48,9,Prostate,Male,0.00
+30,35,7,Prostate,Male,0.00
+40,35,6,Prostate,Male,0.00
+50,33,7,Prostate,Male,0.00
+60,26,7,Prostate,Male,0.00
+70,14,7,Prostate,Male,0.00
+80,5,5,Prostate,Male,0.00
+0,209,45,Bladder,Male,0.39
+5,177,38,Bladder,Male,0.39
+10,150,32,Bladder,Male,0.39
+15,127,27,Bladder,Male,0.39
+20,108,23,Bladder,Male,0.39
+30,79,17,Bladder,Male,0.39
+40,79,17,Bladder,Male,0.39
+50,76,17,Bladder,Male,0.39
+60,66,17,Bladder,Male,0.39
+70,47,15,Bladder,Male,0.39
+80,23,10,Bladder,Male,0.39
+0,1123,400,Other solid,Male,0.19
+5,672,255,Other solid,Male,0.19
+10,503,200,Other solid,Male,0.19
+15,394,162,Other solid,Male,0.19
+20,312,134,Other solid,Male,0.19
+30,198,94,Other solid,Male,0.19
+40,172,88,Other solid,Male,0.19
+50,140,77,Other solid,Male,0.19
+60,98,58,Other solid,Male,0.19
+70,57,36,Other solid,Male,0.19
+80,23,17,Other solid,Male,0.19
+0,115,0,Thyroid,Male,0.00
+5,76,0,Thyroid,Male,0.00
+10,50,0,Thyroid,Male,0.00
+15,33,0,Thyroid,Male,0.00
+20,21,0,Thyroid,Male,0.00
+30,9,0,Thyroid,Male,0.00
+40,3,0,Thyroid,Male,0.00
+50,1,0,Thyroid,Male,0.00
+60,0.3,0,Thyroid,Male,0.00
+70,0.1,0,Thyroid,Male,0.00
+80,0,0,Thyroid,Male,0.00
+0,2326,1028,All solid,Male,0.12
+5,1667,781,All solid,Male,0.12
+10,1325,641,All solid,Male,0.12
+15,1076,533,All solid,Male,0.12
+20,881,444,All solid,Male,0.12
+30,602,317,All solid,Male,0.12
+40,564,310,All solid,Male,0.12
+50,507,289,All solid,Male,0.12
+60,407,246,All solid,Male,0.12
+70,270,181,All solid,Male,0.12
+80,126,102,All solid,Male,0.12
+0,237,71,Leukemia,Male,0.32
+5,149,71,Leukemia,Male,0.32
+10,120,71,Leukemia,Male,0.32
+15,105,70,Leukemia,Male,0.32
+20,96,67,Leukemia,Male,0.32
+30,84,64,Leukemia,Male,0.32
+40,84,67,Leukemia,Male,0.32
+50,84,71,Leukemia,Male,0.32
+60,82,73,Leukemia,Male,0.32
+70,73,69,Leukemia,Male,0.32
+80,48,51,Leukemia,Male,0.32
+0,2563,1099,All cancers,Male,0.12
+5,1816,852,All cancers,Male,0.12
+10,1445,712,All cancers,Male,0.12
+15,1182,603,All cancers,Male,0.12
+20,977,511,All cancers,Male,0.12
+30,686,381,All cancers,Male,0.12
+40,648,377,All cancers,Male,0.12
+50,591,360,All cancers,Male,0.12
+60,489,319,All cancers,Male,0.12
+70,343,250,All cancers,Male,0.12
+80,174,153,All cancers,Male,0.12
+0,101,57,Stomach,Female,1.28
+5,85,48,Stomach,Female,1.28
+10,72,41,Stomach,Female,1.28
+15,61,34,Stomach,Female,1.28
+20,52,29,Stomach,Female,1.28
+30,36,21,Stomach,Female,1.28
+40,35,20,Stomach,Female,1.28
+50,32,19,Stomach,Female,1.28
+60,27,16,Stomach,Female,1.28
+70,19,13,Stomach,Female,1.28
+80,11,8,Stomach,Female,1.28
+0,220,102,Colon,Female,0.28
+5,187,86,Colon,Female,0.28
+10,158,73,Colon,Female,0.28
+15,134,62,Colon,Female,0.28
+20,114,53,Colon,Female,0.28
+30,82,38,Colon,Female,0.28
+40,79,37,Colon,Female,0.28
+50,73,35,Colon,Female,0.28
+60,62,31,Colon,Female,0.28
+70,45,25,Colon,Female,0.28
+80,23,15,Colon,Female,0.28
+0,28,24,Liver,Female,1.48
+5,23,20,Liver,Female,1.48
+10,20,17,Liver,Female,1.48
+15,16,14,Liver,Female,1.48
+20,14,12,Liver,Female,1.48
+30,10,9,Liver,Female,1.48
+40,10,8,Liver,Female,1.48
+50,9,8,Liver,Female,1.48
+60,7,7,Liver,Female,1.48
+70,5,5,Liver,Female,1.48
+80,2,3,Liver,Female,1.48
+0,733,643,Lung,Female,0.23
+5,608,534,Lung,Female,0.23
+10,504,442,Lung,Female,0.23
+15,417,367,Lung,Female,0.23
+20,346,305,Lung,Female,0.23
+30,242,213,Lung,Female,0.23
+40,240,212,Lung,Female,0.23
+50,230,204,Lung,Female,0.23
+60,201,183,Lung,Female,0.23
+70,147,140,Lung,Female,0.23
+80,77,81,Lung,Female,0.23
+0,1171,274,Breast,Female,0.12
+5,914,214,Breast,Female,0.12
+10,712,167,Breast,Female,0.12
+15,553,130,Breast,Female,0.12
+20,429,101,Breast,Female,0.12
+30,253,61,Breast,Female,0.12
+40,141,35,Breast,Female,0.12
+50,70,19,Breast,Female,0.12
+60,31,9,Breast,Female,0.12
+70,12,5,Breast,Female,0.12
+80,4,2,Breast,Female,0.12
+0,50,11,Uterus,Female,0.00
+5,42,10,Uterus,Female,0.00
+10,36,8,Uterus,Female,0.00
+15,30,7,Uterus,Female,0.00
+20,26,6,Uterus,Female,0.00
+30,18,4,Uterus,Female,0.00
+40,16,4,Uterus,Female,0.00
+50,13,3,Uterus,Female,0.00
+60,9,3,Uterus,Female,0.00
+70,5,2,Uterus,Female,0.00
+80,2,1,Uterus,Female,0.00
+0,104,55,Ovary,Female,0.54
+5,87,47,Ovary,Female,0.54
+10,73,39,Ovary,Female,0.54
+15,60,34,Ovary,Female,0.54
+20,50,28,Ovary,Female,0.54
+30,34,20,Ovary,Female,0.54
+40,31,20,Ovary,Female,0.54
+50,25,18,Ovary,Female,0.54
+60,18,15,Ovary,Female,0.54
+70,11,10,Ovary,Female,0.54
+80,5,5,Ovary,Female,0.54
+0,212,59,Bladder,Female,0.34
+5,180,51,Bladder,Female,0.34
+10,152,43,Bladder,Female,0.34
+15,129,36,Bladder,Female,0.34
+20,109,31,Bladder,Female,0.34
+30,79,23,Bladder,Female,0.34
+40,78,23,Bladder,Female,0.34
+50,74,22,Bladder,Female,0.34
+60,64,22,Bladder,Female,0.34
+70,47,19,Bladder,Female,0.34
+80,24,13,Bladder,Female,0.34
+0,1339,491,Other solid,Female,0.19
+5,719,287,Other solid,Female,0.19
+10,523,220,Other solid,Female,0.19
+15,409,179,Other solid,Female,0.19
+20,323,147,Other solid,Female,0.19
+30,207,103,Other solid,Female,0.19
+40,181,97,Other solid,Female,0.19
+50,148,86,Other solid,Female,0.19
+60,109,69,Other solid,Female,0.19
+70,68,47,Other solid,Female,0.19
+80,30,24,Other solid,Female,0.19
+0,634,0,Thyroid,Female,0.00
+5,419,0,Thyroid,Female,0.00
+10,275,0,Thyroid,Female,0.00
+15,178,0,Thyroid,Female,0.00
+20,113,0,Thyroid,Female,0.00
+30,41,0,Thyroid,Female,0.00
+40,14,0,Thyroid,Female,0.00
+50,4,0,Thyroid,Female,0.00
+60,1,0,Thyroid,Female,0.00
+70,0.3,0,Thyroid,Female,0.00
+80,0,0,Thyroid,Female,0.00
+0,4592,1717,All solid,Female,0.11
+5,3265,1295,All solid,Female,0.11
+10,2525,1051,All solid,Female,0.11
+15,1988,862,All solid,Female,0.11
+20,1575,711,All solid,Female,0.11
+30,1002,491,All solid,Female,0.11
+40,824,455,All solid,Female,0.11
+50,678,415,All solid,Female,0.11
+60,529,354,All solid,Female,0.11
+70,358,265,All solid,Female,0.11
+80,177,152,All solid,Female,0.11
+0,185,53,Leukemia,Female,0.41
+5,112,52,Leukemia,Female,0.41
+10,86,53,Leukemia,Female,0.41
+15,76,52,Leukemia,Female,0.41
+20,71,51,Leukemia,Female,0.41
+30,63,51,Leukemia,Female,0.41
+40,62,52,Leukemia,Female,0.41
+50,62,54,Leukemia,Female,0.41
+60,57,55,Leukemia,Female,0.41
+70,51,52,Leukemia,Female,0.41
+80,37,38,Leukemia,Female,0.41
+0,4777,1770,All cancers,Female,0.11
+5,3377,1347,All cancers,Female,0.11
+10,2611,1104,All cancers,Female,0.11
+15,2064,914,All cancers,Female,0.11
+20,1646,762,All cancers,Female,0.11
+30,1065,542,All cancers,Female,0.11
+40,886,507,All cancers,Female,0.11
+50,740,469,All cancers,Female,0.11
+60,586,409,All cancers,Female,0.11
+70,409,317,All cancers,Female,0.11
+80,214,190,All cancers,Female,0.11
